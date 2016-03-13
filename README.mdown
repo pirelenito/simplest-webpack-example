@@ -1,0 +1,9 @@
+# The simplest webpack example ever
+
+To run it:
+
+```bash
+npm run build
+```
+
+Open the `index.html` file in a browser.
